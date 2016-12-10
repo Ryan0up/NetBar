@@ -1,0 +1,80 @@
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\bin\Debug\NetBar.exe
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\bin\Debug\NetBar.pdb
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.exe
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.pdb
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.frmMain.resources
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.frmRecord.resources
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.frmBegin.resources
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.frmEnd.resources
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.frmChange.resources
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.frmRegVip.resources
+c:\users\ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.frmPay.resources
+C:\Users\Ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\documents\visual studio 2010\Projects\NetBar\NetBar\obj\x86\Debug\NetBar.frmRePwd.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.exe
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.pdb
+F:\C#\Project\NetBar\NetBar\bin\Debug\NetBar.exe
+F:\C#\Project\NetBar\NetBar\bin\Debug\NetBar.pdb
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmBegin.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmChange.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmEnd.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmMain.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmPay.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmRecord.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmRegVip.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmRePwd.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.Properties.Resources.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.csproj.GenerateResource.Cache
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmAdminLogin.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmCard.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmPC.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.exe
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.pdb
+C:\Users\Ryan\Desktop\NetBar\NetBar\bin\Debug\NetBar.exe
+C:\Users\Ryan\Desktop\NetBar\NetBar\bin\Debug\NetBar.pdb
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmAdminLogin.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmBegin.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmCard.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmChange.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmEnd.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmMain.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmPay.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmPC.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmRecord.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmRegVip.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmRePwd.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.Properties.Resources.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.csproj.GenerateResource.Cache
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmAbout.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmAbout.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.csprojResolveAssemblyReference.cache
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.csprojResolveAssemblyReference.cache
+G:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.exe
+G:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.pdb
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmLock.resources
+C:\Users\Ryan\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmUnlock.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.exe
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.pdb
+C:\Users\RyanWang\Desktop\NetBar\NetBar\bin\Debug\NetBar.exe
+C:\Users\RyanWang\Desktop\NetBar\NetBar\bin\Debug\NetBar.pdb
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.csprojResolveAssemblyReference.cache
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmAbout.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmAdminLogin.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmBegin.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmCard.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmChange.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmEnd.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmLock.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmMain.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmPay.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmPC.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmRecord.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmRegVip.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmRePwd.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.frmUnlock.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.Properties.Resources.resources
+C:\Users\RyanWang\Desktop\NetBar\NetBar\obj\x86\Debug\NetBar.csproj.GenerateResource.Cache
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmLock.resources
+F:\C#\Project\NetBar\NetBar\obj\x86\Debug\NetBar.frmUnlock.resources
